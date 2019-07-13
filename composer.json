@@ -9,12 +9,6 @@
             "email": "emadalkabi1994@gmail.com"
         }
     ],
-	"support": {
-		"issues": "http://dev.ckeditor.com",
-		"forum": "http://ckeditor.com/forums",
-		"wiki": "http://docs.ckeditor.com",
-		"source": "http://github.com/ckeditor/ckeditor-dev"
-	},
 	"autoload": {
         "psr-4": {
             "EmadAlkabi\\Ckeditor\\": "./"
