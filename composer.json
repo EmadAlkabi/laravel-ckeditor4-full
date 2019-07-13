@@ -1,0 +1,18 @@
+{
+    "name": "emadalkabi/laravel-ckeditor4-full",
+    "description": "JavaScript WYSIWYG web text editor (for laravel).",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emad AlKabi",
+            "email": "emadalkabi1994@gmail.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "EmadAlkabi\\Ckeditor\\": "./"
+        }
+	},
+    "require": {}
+}
